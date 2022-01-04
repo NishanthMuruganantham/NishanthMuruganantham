@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **NishanthMuruganantham/NishanthMuruganantham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,5 +63,6 @@ Here are some ideas to get you started:
 <ul>
   <h3 class="code-line" data-line-start="24" data-line-end="0"><a id="Developed_and_Published_NPM_Packages_24"></a> Developed Open Source Projects</h3>
 <ul>
-<li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/NishanthMuruganantham/scaling-nodejs">NDTV API</a></li>
-<li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/NishanthMuruganantham/AWS-SNS-OTP-API">AWS-SNS-OTP-API</a></li>
+<li class="has-line-data" data-line-start="3" data-line-end="4"><a href="https://github.com/NishanthMuruganantham/ndtv-api">NDTV API</a>&nbspusing Flask REST API</li>
+<li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/NishanthMuruganantham/news-website">New Website</a>&nbsp powered by Flask & Flask REST API</li>
+<li class="has-line-data" data-line-start="4" data-line-end="5"><a href="https://github.com/NishanthMuruganantham/clondium-blog">Clondium (A clone of Medium)</a>&nbsp using Django</li>
