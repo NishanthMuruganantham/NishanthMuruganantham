@@ -41,17 +41,17 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"><a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="amplify" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="angularjs" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="appwrite" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="circleci" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp; 
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40" /> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="powershell" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp; 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="babel" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="css3" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="babel" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="aws" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="canvasjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="plotly" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="selenium" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
