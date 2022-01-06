@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="selenium" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="chartjs" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="40" height="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="atom" width="40" height="40" /> </a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
