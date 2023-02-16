@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nishanth Muruganantham</h1>
-<h3 align="center">System Engineer at Tata Consultancy Services</h3>
+<h3 align="center">Senior Software Engineer at IDP Educations</h3>
 <h3 align="center">I'm a self taught developer and I love to learn new things</h3>
 <br>
 <!-- PROFILE VIEWS -->
